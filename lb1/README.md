@@ -5,7 +5,7 @@
 <h3>СПм-21-2, Барсуков Антон Ігорович </h3>
 
 <h2>Модель:
-<a href="http://ccl.northwestern.edu/netlogo/models/models/Sample%20Models/Biology/Virus.nlogo">
+<a href="https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Virus.nlogo">
 Virus
 </a>
 </h2>
